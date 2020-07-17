@@ -24,4 +24,8 @@
  - 执行 `docker-compose build && docker-compose up -d`
  - 执行完毕之后访问`localhost:port` 例如 `localhost:8081` 此端口对应env中的`NGINX_PORT`
 
+ ## 有关mysql8外部链接错误的问题 `SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client`
+ 这里是我当初 [踩的坑](https://learnku.com/laravel/t/46952#reply150794) 解决了你的问题的话帮忙点个赞.
+
  ## 感谢使用
+ 喜欢的话点个❤️把
